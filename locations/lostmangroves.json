@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Lost Mangroves",
+        "children": [
+            {
+                "name": "[1-1] Mangrove Cove",
+                "sections": [
+                    {
+                        "name": "K",
+                        "access_rules": [],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "lostmangroves",
+                        "x": 152,
+                        "y": 355
+                    }
+                ]
+            }
+        ]
+    }
+]

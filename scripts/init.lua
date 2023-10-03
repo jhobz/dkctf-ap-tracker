@@ -6,7 +6,7 @@ Tracker:AddItems("items/items.json")
 --Maps
 Tracker:AddMaps("maps/maps.json")
 --Locations
--- TBD
+Tracker:AddLocations("locations/lostmangroves.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")

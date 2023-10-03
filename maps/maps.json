@@ -1,8 +1,8 @@
 [
     {
         "name": "lostmangroves",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/lostmangroves.png"
     },
     {
