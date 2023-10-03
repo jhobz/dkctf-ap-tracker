@@ -1,0 +1,56 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Lost Mangroves",
+                "content": {
+                    "type": "map",
+                    "maps": ["lostmangroves"]
+                }
+            },
+            {
+                "title": "Autumn Heights",
+                "content": {
+                    "type": "map",
+                    "maps": ["autumnheights"]
+                }
+            },
+            {
+                "title": "Bright Savannah",
+                "content": {
+                    "type": "map",
+                    "maps": ["brightsavannah"]
+                }
+            },
+            {
+                "title": "Sea Breeze Cove",
+                "content": {
+                    "type": "map",
+                    "maps": ["seabreezecove"]
+                }
+            },
+            {
+                "title": "Juicy Jungle",
+                "content": {
+                    "type": "map",
+                    "maps": ["juicyjungle"]
+                }
+            },
+            {
+                "title": "Donkey Kong Island",
+                "content": {
+                    "type": "map",
+                    "maps": ["donkeykongisland"]
+                }
+            },
+            {
+                "title": "Secret Seclusion",
+                "content": {
+                    "type": "map",
+                    "maps": ["secretseclusion"]
+                }
+            }
+        ]
+    }
+}

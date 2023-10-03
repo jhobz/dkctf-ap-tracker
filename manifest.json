@@ -1,0 +1,14 @@
+{
+    "name": "Donkey Kong Country: Tropical Freeze Randomizer",
+    "game_name": "Donkey Kong Country: Tropical Freeze",
+    "platform": "Nintendo Switch",
+    "package_version": "0.1.0",
+    "package_uid": "dkctf_randomizer_jhobz",
+    "author": "JHobz",
+    "variants": {
+        "standard": {
+            "display_name": "Map Tracker",
+            "flags": ["ap"]
+        }
+    }
+}
