@@ -189,12 +189,6 @@
         "codes": "level2-4,2-4"
     },
     {
-        "name": "Level 2-5",
-        "type": "toggle",
-        "img": "/images/levels/Levels_2-5.png",
-        "codes": "level2-5,2-5"
-    },
-    {
         "name": "Level 2-6",
         "type": "toggle",
         "img": "/images/levels/Levels_2-6.png",
@@ -211,6 +205,12 @@
         "type": "toggle",
         "img": "/images/levels/Levels_2-B.png",
         "codes": "level2-b,2-b"
+    },
+    {
+        "name": "Level 2-5",
+        "type": "toggle",
+        "img": "/images/levels/Levels_2-5.png",
+        "codes": "level2-5,2-5"
     },
     {
         "name": "Level 2-K",

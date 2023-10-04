@@ -113,8 +113,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 0,
-                        "y": 355
+                        "x": 283,
+                        "y": 456
                     }
                 ]
             },
@@ -213,8 +213,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 50,
-                        "y": 355
+                        "x": 404,
+                        "y": 474
                     }
                 ]
             },
@@ -297,8 +297,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 100,
-                        "y": 355
+                        "x": 506,
+                        "y": 471
                     }
                 ]
             },
@@ -381,92 +381,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 150,
-                        "y": 355
-                    }
-                ]
-            },
-            {
-                "name": "[2-5] Alpine Incline",
-                "sections": [
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "2-5"
-                        ],
-                        "visibility_rules": []
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "autumnheights",
-                        "x": 200,
-                        "y": 355
+                        "x": 490,
+                        "y": 390
                     }
                 ]
             },
@@ -565,8 +481,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 250,
-                        "y": 355
+                        "x": 392,
+                        "y": 380
                     }
                 ]
             },
@@ -649,8 +565,92 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 300,
-                        "y": 355
+                        "x": 308,
+                        "y": 368
+                    }
+                ]
+            },
+            {
+                "name": "[2-5] Alpine Incline",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "2-5"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "autumnheights",
+                        "x": 443,
+                        "y": 268
                     }
                 ]
             },
@@ -733,8 +733,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 350,
-                        "y": 355
+                        "x": 372,
+                        "y": 215
                     }
                 ]
             },
@@ -785,8 +785,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 400,
-                        "y": 355
+                        "x": 405,
+                        "y": 442
                     }
                 ]
             },
@@ -805,8 +805,8 @@
                 "map_locations": [
                     {
                         "map": "autumnheights",
-                        "x": 450,
-                        "y": 355
+                        "x": 445,
+                        "y": 190
                     }
                 ]
             }
