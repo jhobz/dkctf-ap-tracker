@@ -143,25 +143,25 @@
         "name": "Level 1-A",
         "type": "toggle",
         "img": "/images/levels/Levels_1-A.png",
-        "codes": "level1-A,1-A"
+        "codes": "level1-a,1-a"
     },
     {
         "name": "Level 1-B",
         "type": "toggle",
         "img": "/images/levels/Levels_1-B.png",
-        "codes": "level1-B,1-B"
+        "codes": "level1-b,1-b"
     },
     {
         "name": "Level 1-K",
         "type": "toggle",
         "img": "/images/levels/Levels_1-K.png",
-        "codes": "level1-K,1-K"
+        "codes": "level1-k,1-k"
     },
     {
         "name": "Level 1-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_1-BOSS.png",
-        "codes": "level1-Boss,1-Boss"
+        "codes": "level1-boss,1-boss"
     },
 
     {
@@ -204,25 +204,25 @@
         "name": "Level 2-A",
         "type": "toggle",
         "img": "/images/levels/Levels_2-A.png",
-        "codes": "level2-A,2-A"
+        "codes": "level2-a,2-a"
     },
     {
         "name": "Level 2-B",
         "type": "toggle",
         "img": "/images/levels/Levels_2-B.png",
-        "codes": "level2-B,2-B"
+        "codes": "level2-b,2-b"
     },
     {
         "name": "Level 2-K",
         "type": "toggle",
         "img": "/images/levels/Levels_2-K.png",
-        "codes": "level2-K,2-K"
+        "codes": "level2-k,2-k"
     },
     {
         "name": "Level 2-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_2-BOSS.png",
-        "codes": "level2-Boss,2-Boss"
+        "codes": "level2-boss,2-boss"
     },
 
     {
@@ -265,25 +265,25 @@
         "name": "Level 3-A",
         "type": "toggle",
         "img": "/images/levels/Levels_3-A.png",
-        "codes": "level3-A,3-A"
+        "codes": "level3-a,3-a"
     },
     {
         "name": "Level 3-B",
         "type": "toggle",
         "img": "/images/levels/Levels_3-B.png",
-        "codes": "level3-B,3-B"
+        "codes": "level3-b,3-b"
     },
     {
         "name": "Level 3-K",
         "type": "toggle",
         "img": "/images/levels/Levels_3-K.png",
-        "codes": "level3-K,3-K"
+        "codes": "level3-k,3-k"
     },
     {
         "name": "Level 3-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_3-BOSS.png",
-        "codes": "level3-Boss,3-Boss"
+        "codes": "level3-boss,3-boss"
     },
 
     {
@@ -326,25 +326,25 @@
         "name": "Level 4-A",
         "type": "toggle",
         "img": "/images/levels/Levels_4-A.png",
-        "codes": "level4-A,4-A"
+        "codes": "level4-a,4-a"
     },
     {
         "name": "Level 4-B",
         "type": "toggle",
         "img": "/images/levels/Levels_4-B.png",
-        "codes": "level4-B,4-B"
+        "codes": "level4-b,4-b"
     },
     {
         "name": "Level 4-K",
         "type": "toggle",
         "img": "/images/levels/Levels_4-K.png",
-        "codes": "level4-K,4-K"
+        "codes": "level4-k,4-k"
     },
     {
         "name": "Level 4-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_4-BOSS.png",
-        "codes": "level4-Boss,4-Boss"
+        "codes": "level4-boss,4-boss"
     },
 
     {
@@ -387,25 +387,25 @@
         "name": "Level 5-A",
         "type": "toggle",
         "img": "/images/levels/Levels_5-A.png",
-        "codes": "level5-A,5-A"
+        "codes": "level5-a,5-a"
     },
     {
         "name": "Level 5-B",
         "type": "toggle",
         "img": "/images/levels/Levels_5-B.png",
-        "codes": "level5-B,5-B"
+        "codes": "level5-b,5-b"
     },
     {
         "name": "Level 5-K",
         "type": "toggle",
         "img": "/images/levels/Levels_5-K.png",
-        "codes": "level5-K,5-K"
+        "codes": "level5-k,5-k"
     },
     {
         "name": "Level 5-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_5-BOSS.png",
-        "codes": "level5-Boss,5-Boss"
+        "codes": "level5-boss,5-boss"
     },
 
     {
@@ -466,19 +466,19 @@
         "name": "Level 6-B",
         "type": "toggle",
         "img": "/images/levels/Levels_6-B.png",
-        "codes": "level6-B,6-B"
+        "codes": "level6-b,6-b"
     },
     {
         "name": "Level 6-K",
         "type": "toggle",
         "img": "/images/levels/Levels_6-K.png",
-        "codes": "level6-K,6-K"
+        "codes": "level6-k,6-k"
     },
     {
         "name": "Level 6-Boss",
         "type": "toggle",
         "img": "/images/levels/Levels_6-BOSS.png",
-        "codes": "level6-Boss,6-Boss"
+        "codes": "level6-boss,6-boss"
     },
     {
         "name": "Level 7-1",
