@@ -81,8 +81,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 0,
-                        "y": 355
+                        "x": 340,
+                        "y": 455
                     }
                 ]
             },
@@ -165,8 +165,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 50,
-                        "y": 355
+                        "x": 715,
+                        "y": 440
                     }
                 ]
             },
@@ -249,8 +249,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 100,
-                        "y": 355
+                        "x": 670,
+                        "y": 385
                     }
                 ]
             },
@@ -349,8 +349,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 150,
-                        "y": 355
+                        "x": 570,
+                        "y": 350
                     }
                 ]
             },
@@ -433,8 +433,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 200,
-                        "y": 355
+                        "x": 450,
+                        "y": 325
                     }
                 ]
             },
@@ -517,8 +517,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 250,
-                        "y": 355
+                        "x": 360,
+                        "y": 255
                     }
                 ]
             },
@@ -601,8 +601,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 300,
-                        "y": 355
+                        "x": 500,
+                        "y": 235
                     }
                 ]
             },
@@ -685,8 +685,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 350,
-                        "y": 355
+                        "x": 590,
+                        "y": 220
                     }
                 ]
             },
@@ -785,8 +785,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 400,
-                        "y": 355
+                        "x": 650,
+                        "y": 215
                     }
                 ]
             },
@@ -869,8 +869,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 450,
-                        "y": 355
+                        "x": 525,
+                        "y": 170
                     }
                 ]
             },
@@ -921,8 +921,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 500,
-                        "y": 355
+                        "x": 360,
+                        "y": 155
                     }
                 ]
             },
@@ -941,8 +941,8 @@
                 "map_locations": [
                     {
                         "map": "donkeykongisland",
-                        "x": 550,
-                        "y": 355
+                        "x": 400,
+                        "y": 55
                     }
                 ]
             }
