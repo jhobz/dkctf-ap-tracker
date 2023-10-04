@@ -7,38 +7,38 @@
     },
     {
         "name": "autumnheights",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/autumnheights.png"
     },
     {
         "name": "brightsavannah",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/brightsavannah.png"
     },
     {
         "name": "seabreezecove",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/seabreezecove.png"
     },
     {
         "name": "juicyjungle",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/juicyjungle.png"
     },
     {
         "name": "donkeykongisland",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/donkeykongisland.png"
     },
     {
         "name": "secretseclusion",
-        "location_size": 6,
-        "location_border_thickness": 12,
+        "location_size": 24,
+        "location_border_thickness": 2,
         "img": "images/maps/secretseclusion.png"
     }
 ]

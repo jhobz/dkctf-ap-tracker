@@ -9,6 +9,12 @@ Tracker:AddMaps("maps/maps.json")
 
 -- Locations
 Tracker:AddLocations("locations/lostmangroves.json")
+Tracker:AddLocations("locations/autumnheights.json")
+Tracker:AddLocations("locations/brightsavannah.json")
+Tracker:AddLocations("locations/seabreezecove.json")
+Tracker:AddLocations("locations/juicyjungle.json")
+Tracker:AddLocations("locations/donkeykongisland.json")
+Tracker:AddLocations("locations/secretseclusion.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")

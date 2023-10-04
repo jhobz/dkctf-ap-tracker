@@ -1,15 +1,15 @@
 [
     {
-        "name": "Lost Mangroves",
+        "name": "Donkey Kong Island",
         "children": [
             {
-                "name": "[1-1] Mangrove Cove",
+                "name": "[6-1] Homecoming Hijinks",
                 "sections": [
                     {
                         "name": "",
                         "chest_opened_img": "images/locations/K.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -17,7 +17,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/O.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -25,7 +25,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/N.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -33,7 +33,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/G.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -41,7 +41,7 @@
                         "name": "Puzzle Piece #1",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -49,7 +49,7 @@
                         "name": "Puzzle Piece #2",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -57,7 +57,7 @@
                         "name": "Puzzle Piece #3",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -65,7 +65,7 @@
                         "name": "Puzzle Piece #4",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
                         ],
                         "visibility_rules": []
                     },
@@ -73,7 +73,259 @@
                         "name": "Puzzle Piece #5",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-1"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 340,
+                        "y": 455
+                    }
+                ]
+            },
+            {
+                "name": "[6-2] Seashore War",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-2"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 715,
+                        "y": 440
+                    }
+                ]
+            },
+            {
+                "name": "[6-3] Aqueduct Assault",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-3"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 670,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "[6-4] Blurry Flurry",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-4"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-4"
                         ],
                         "visibility_rules": []
                     },
@@ -81,7 +333,7 @@
                         "name": "Puzzle Piece #6",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
+                            "6-4"
                         ],
                         "visibility_rules": []
                     },
@@ -89,243 +341,27 @@
                         "name": "Puzzle Piece #7",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-1"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-1"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-1"
+                            "6-4"
                         ],
                         "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "lostmangroves",
-                        "x": 153,
-                        "y": 348
-                    }
-                ]
-            },
-            {
-                "name": "[1-2] Shipwreck Shore",
-                "sections": [
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-2"
-                        ],
-                        "visibility_rules": []
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "lostmangroves",
-                        "x": 313,
-                        "y": 355
-                    }
-                ]
-            },
-            {
-                "name": "[1-A] Zip-Line Shrine",
-                "sections": [
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-a"
-                        ],
-                        "visibility_rules": []
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "lostmangroves",
-                        "x": 423,
+                        "map": "donkeykongisland",
+                        "x": 570,
                         "y": 350
                     }
                 ]
             },
             {
-                "name": "[1-3] Canopy Chaos",
+                "name": "[6-5] Forest Folly",
                 "sections": [
                     {
                         "name": "",
                         "chest_opened_img": "images/locations/K.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -333,7 +369,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/O.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -341,7 +377,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/N.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -349,7 +385,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/G.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -357,7 +393,7 @@
                         "name": "Puzzle Piece #1",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -365,7 +401,7 @@
                         "name": "Puzzle Piece #2",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -373,7 +409,7 @@
                         "name": "Puzzle Piece #3",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -381,7 +417,7 @@
                         "name": "Puzzle Piece #4",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
                         ],
                         "visibility_rules": []
                     },
@@ -389,7 +425,343 @@
                         "name": "Puzzle Piece #5",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-5"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 450,
+                        "y": 325
+                    }
+                ]
+            },
+            {
+                "name": "[6-6] Cliffside Slide",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-6"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 360,
+                        "y": 255
+                    }
+                ]
+            },
+            {
+                "name": "[6-7] Frozen Frenzy",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-7"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 500,
+                        "y": 235
+                    }
+                ]
+            },
+            {
+                "name": "[6-A] Dynamite Dash",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-a"
+                        ],
+                        "visibility_rules": []
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "donkeykongisland",
+                        "x": 590,
+                        "y": 220
+                    }
+                ]
+            },
+            {
+                "name": "[6-B] Icicle Arsenal",
+                "sections": [
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/K.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/O.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/N.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "",
+                        "chest_opened_img": "images/locations/G.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #1",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #2",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #3",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #4",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-b"
+                        ],
+                        "visibility_rules": []
+                    },
+                    {
+                        "name": "Puzzle Piece #5",
+                        "chest_opened_img": "images/locations/puzzlepiece.png",
+                        "access_rules": [
+                            "6-b"
                         ],
                         "visibility_rules": []
                     },
@@ -397,7 +769,7 @@
                         "name": "Puzzle Piece #6",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-b"
                         ],
                         "visibility_rules": []
                     },
@@ -405,27 +777,27 @@
                         "name": "Puzzle Piece #7",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-3"
+                            "6-b"
                         ],
                         "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "lostmangroves",
-                        "x": 430,
-                        "y": 260
+                        "map": "donkeykongisland",
+                        "x": 650,
+                        "y": 215
                     }
                 ]
             },
             {
-                "name": "[1-B] Busted Bayou",
+                "name": "[6-8] Meltdown Mayhem",
                 "sections": [
                     {
                         "name": "",
                         "chest_opened_img": "images/locations/K.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -433,7 +805,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/O.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -441,7 +813,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/N.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -449,7 +821,7 @@
                         "name": "",
                         "chest_opened_img": "images/locations/G.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -457,7 +829,7 @@
                         "name": "Puzzle Piece #1",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -465,7 +837,7 @@
                         "name": "Puzzle Piece #2",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -473,7 +845,7 @@
                         "name": "Puzzle Piece #3",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -481,7 +853,7 @@
                         "name": "Puzzle Piece #4",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     },
@@ -489,143 +861,27 @@
                         "name": "Puzzle Piece #5",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-b"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-b"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-b"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-b"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-b"
+                            "6-8"
                         ],
                         "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "lostmangroves",
-                        "x": 557,
-                        "y": 270
+                        "map": "donkeykongisland",
+                        "x": 525,
+                        "y": 170
                     }
                 ]
             },
             {
-                "name": "[1-4] Trunk Twister",
-                "sections": [
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "1-4"
-                        ],
-                        "visibility_rules": []
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "lostmangroves",
-                        "x": 542,
-                        "y": 225
-                    }
-                ]
-            },
-            {
-                "name": "[1-K] Swinger Flinger",
+                "name": "[6-K] Slippery Spikes",
                 "sections": [
                     {
                         "name": "Puzzle Piece #1",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-k"
+                            "6-k"
                         ],
                         "visibility_rules": []
                     },
@@ -633,7 +889,7 @@
                         "name": "Puzzle Piece #2",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-k"
+                            "6-k"
                         ],
                         "visibility_rules": []
                     },
@@ -641,7 +897,7 @@
                         "name": "Puzzle Piece #3",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-k"
+                            "6-k"
                         ],
                         "visibility_rules": []
                     },
@@ -649,7 +905,7 @@
                         "name": "Puzzle Piece #4",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-k"
+                            "6-k"
                         ],
                         "visibility_rules": []
                     },
@@ -657,36 +913,36 @@
                         "name": "Puzzle Piece #5",
                         "chest_opened_img": "images/locations/puzzlepiece.png",
                         "access_rules": [
-                            "1-k"
+                            "6-k"
                         ],
                         "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "lostmangroves",
-                        "x": 540,
-                        "y": 175
+                        "map": "donkeykongisland",
+                        "x": 360,
+                        "y": 155
                     }
                 ]
             },
             {
-                "name": "[1-Boss] Big Top Bop",
+                "name": "[6-Boss] Volcano Dome",
                 "sections": [
                     {
-                        "name": "Defeat Pompy, the Presumptuous",
-                        "chest_opened_img": "images/locations/Pompy.png",
+                        "name": "Defeat Lord Fredrik, the Snowmad King",
+                        "chest_opened_img": "images/locations/Lord Fredrik.png",
                         "access_rules": [
-                            "1-boss"
+                            "6-boss"
                         ],
                         "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "lostmangroves",
-                        "x": 710,
-                        "y": 320
+                        "map": "donkeykongisland",
+                        "x": 400,
+                        "y": 55
                     }
                 ]
             }
