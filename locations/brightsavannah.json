@@ -113,8 +113,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 0,
-                        "y": 355
+                        "x": 120,
+                        "y": 335
                     }
                 ]
             },
@@ -213,8 +213,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 50,
-                        "y": 355
+                        "x": 313,
+                        "y": 340
                     }
                 ]
             },
@@ -297,8 +297,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 100,
-                        "y": 355
+                        "x": 380,
+                        "y": 360
                     }
                 ]
             },
@@ -397,8 +397,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 150,
-                        "y": 355
+                        "x": 555,
+                        "y": 340
                     }
                 ]
             },
@@ -481,8 +481,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 200,
-                        "y": 355
+                        "x": 434,
+                        "y": 310
                     }
                 ]
             },
@@ -565,8 +565,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 250,
-                        "y": 355
+                        "x": 320,
+                        "y": 205
                     }
                 ]
             },
@@ -649,8 +649,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 300,
-                        "y": 355
+                        "x": 436,
+                        "y": 240
                     }
                 ]
             },
@@ -749,8 +749,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 350,
-                        "y": 355
+                        "x": 547,
+                        "y": 207
                     }
                 ]
             },
@@ -833,8 +833,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 400,
-                        "y": 355
+                        "x": 670,
+                        "y": 335
                     }
                 ]
             },
@@ -853,8 +853,8 @@
                 "map_locations": [
                     {
                         "map": "brightsavannah",
-                        "x": 450,
-                        "y": 355
+                        "x": 435,
+                        "y": 188
                     }
                 ]
             }
