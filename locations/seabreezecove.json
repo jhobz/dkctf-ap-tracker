@@ -97,8 +97,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 0,
-                        "y": 355
+                        "x": 195,
+                        "y": 363
                     }
                 ]
             },
@@ -213,8 +213,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 50,
-                        "y": 355
+                        "x": 565,
+                        "y": 331
                     }
                 ]
             },
@@ -297,8 +297,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 100,
-                        "y": 355
+                        "x": 522,
+                        "y": 299
                     }
                 ]
             },
@@ -381,8 +381,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 150,
-                        "y": 355
+                        "x": 357,
+                        "y": 320
                     }
                 ]
             },
@@ -497,8 +497,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 200,
-                        "y": 355
+                        "x": 321,
+                        "y": 310
                     }
                 ]
             },
@@ -581,8 +581,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 250,
-                        "y": 355
+                        "x": 350,
+                        "y": 280
                     }
                 ]
             },
@@ -681,8 +681,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 300,
-                        "y": 355
+                        "x": 504,
+                        "y": 222
                     }
                 ]
             },
@@ -765,8 +765,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 350,
-                        "y": 355
+                        "x": 697,
+                        "y": 247
                     }
                 ]
             },
@@ -817,8 +817,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 400,
-                        "y": 355
+                        "x": 145,
+                        "y": 305
                     }
                 ]
             },
@@ -837,8 +837,8 @@
                 "map_locations": [
                     {
                         "map": "seabreezecove",
-                        "x": 450,
-                        "y": 355
+                        "x": 765,
+                        "y": 295
                     }
                 ]
             }
