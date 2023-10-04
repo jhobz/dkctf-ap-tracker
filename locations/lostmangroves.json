@@ -113,8 +113,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 0,
-                        "y": 355
+                        "x": 153,
+                        "y": 348
                     }
                 ]
             },
@@ -229,7 +229,7 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 50,
+                        "x": 313,
                         "y": 355
                     }
                 ]
@@ -313,8 +313,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 100,
-                        "y": 355
+                        "x": 423,
+                        "y": 350
                     }
                 ]
             },
@@ -413,8 +413,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 150,
-                        "y": 355
+                        "x": 430,
+                        "y": 260
                     }
                 ]
             },
@@ -529,8 +529,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 200,
-                        "y": 355
+                        "x": 557,
+                        "y": 270
                     }
                 ]
             },
@@ -613,8 +613,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 250,
-                        "y": 355
+                        "x": 542,
+                        "y": 225
                     }
                 ]
             },
@@ -665,8 +665,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 300,
-                        "y": 355
+                        "x": 540,
+                        "y": 175
                     }
                 ]
             },
@@ -685,8 +685,8 @@
                 "map_locations": [
                     {
                         "map": "lostmangroves",
-                        "x": 350,
-                        "y": 355
+                        "x": 710,
+                        "y": 320
                     }
                 ]
             }
