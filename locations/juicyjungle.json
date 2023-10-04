@@ -97,8 +97,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 0,
-                        "y": 355
+                        "x": 338,
+                        "y": 108
                     }
                 ]
             },
@@ -181,8 +181,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 50,
-                        "y": 355
+                        "x": 317,
+                        "y": 156
                     }
                 ]
             },
@@ -265,8 +265,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 100,
-                        "y": 355
+                        "x": 482,
+                        "y": 200
                     }
                 ]
             },
@@ -365,8 +365,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 150,
-                        "y": 355
+                        "x": 480,
+                        "y": 255
                     }
                 ]
             },
@@ -481,8 +481,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 200,
-                        "y": 355
+                        "x": 350,
+                        "y": 245
                     }
                 ]
             },
@@ -581,8 +581,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 250,
-                        "y": 355
+                        "x": 185,
+                        "y": 235
                     }
                 ]
             },
@@ -665,8 +665,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 300,
-                        "y": 355
+                        "x": 379,
+                        "y": 250
                     }
                 ]
             },
@@ -749,8 +749,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 350,
-                        "y": 355
+                        "x": 230,
+                        "y": 268
                     }
                 ]
             },
@@ -801,8 +801,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 400,
-                        "y": 355
+                        "x": 198,
+                        "y": 184
                     }
                 ]
             },
@@ -821,8 +821,8 @@
                 "map_locations": [
                     {
                         "map": "juicyjungle",
-                        "x": 450,
-                        "y": 355
+                        "x": 538,
+                        "y": 445
                     }
                 ]
             }
