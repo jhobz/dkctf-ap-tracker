@@ -1,4 +1,5 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
 function onClear(slot_data)
     print('clear')
@@ -36,5 +37,22 @@ function onItem(index, item_id, item_name, player_number)
     end
 end
 
+function onLocation(location_id, location_name)
+    print("onLocation: fired")
+    local locationPath = LOCATION_MAPPING[location_id]
+    if not locationPath or not locationPath[1] then
+        print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        return
+    end
+
+    local location = Tracker:FindObjectForCode(locationPath[1])
+    if location then
+        location.AvailableChestCount = 0
+    else
+        print(string.format("onLocation: could not find object for code %s", locationPath[1]))
+    end
+end
+
 Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
+Archipelago:AddLocationHandler("location handler", onLocation)

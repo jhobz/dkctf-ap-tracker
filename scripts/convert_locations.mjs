@@ -9,17 +9,17 @@ function importFile(from) {
 }
 
 function getCheckInfoFromLocation(location) {
-    let checkName = location.name.charAt(0) === '[' ? location.name.substr(location.name.indexOf(' ') + 1) : location.name
+    let checkName = location.name.charAt(0) === '[' ? location.name.substring(location.name.indexOf(' ') + 1) : location.name
     let imagePath = 'images/locations/puzzlepiece.png'
     if (checkName.indexOf('Letter') >= 0) {
-        imagePath = `images/locations/${checkName.substr(checkName.indexOf(' ') + 1)}.png`
+        imagePath = `images/locations/${checkName.substring(checkName.indexOf(' ') + 1)}.png`
         checkName = ''
     } else if (checkName.indexOf('Defeat') >= 0) {
         imagePath = `images/locations/${checkName.substring(checkName.indexOf(' ') + 1, checkName.indexOf(','))}.png`
     }
 
     // TODO: May need to add 'chest_unopened_img' here; just append something to imagePath
-    return { name: checkName, 'chest_opened_img': imagePath }
+    return { name: checkName, 'chest_opened_img': imagePath, 'chest_unopened_img': `${imagePath.substring(imagePath.indexOf('.png'))}_desat.png` }
 }
 
 function generateTrackerLocations(locations) {

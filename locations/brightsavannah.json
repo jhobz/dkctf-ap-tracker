@@ -4,110 +4,61 @@
         "children": [
             {
                 "name": "[3-1] Grassland Groove",
+                "access_rules": [
+                    "3-1"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-1"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -120,94 +71,53 @@
             },
             {
                 "name": "[3-2] Baobab Bonanza",
+                "access_rules": [
+                    "3-2"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-2"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -220,78 +130,45 @@
             },
             {
                 "name": "[3-3] Frantic Fields",
+                "access_rules": [
+                    "3-3"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-3"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -304,94 +181,53 @@
             },
             {
                 "name": "[3-4] Scorch 'n' Torch",
+                "access_rules": [
+                    "3-4"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-4"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -404,78 +240,45 @@
             },
             {
                 "name": "[3-5] Twilight Terror",
+                "access_rules": [
+                    "3-5"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-5"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -488,78 +291,45 @@
             },
             {
                 "name": "[3-A] Rickety Rafters",
+                "access_rules": [
+                    "3-a"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-a"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -572,78 +342,45 @@
             },
             {
                 "name": "[3-6] Cannon Canyon",
+                "access_rules": [
+                    "3-6"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-6"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -656,94 +393,53 @@
             },
             {
                 "name": "[3-B] Bramble Scramble",
+                "access_rules": [
+                    "3-b"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-b"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -756,78 +452,45 @@
             },
             {
                 "name": "[3-K] Precarious Pendulums",
+                "access_rules": [
+                    "3-k"
+                ],
                 "sections": [
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/K.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter K",
+                        "chest_opened_img": "images/locations/K.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/O.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter O",
+                        "chest_opened_img": "images/locations/O.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/N.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter N",
+                        "chest_opened_img": "images/locations/N.png"
                     },
                     {
-                        "name": "",
-                        "chest_opened_img": "images/locations/G.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "name": "Letter G",
+                        "chest_opened_img": "images/locations/G.png"
                     },
                     {
                         "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     },
                     {
                         "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png",
-                        "access_rules": [
-                            "3-k"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/puzzlepiece.png"
                     }
                 ],
                 "map_locations": [
@@ -840,14 +503,13 @@
             },
             {
                 "name": "[3-Boss] Triple Trouble",
+                "access_rules": [
+                    "3-boss"
+                ],
                 "sections": [
                     {
                         "name": "Defeat Ba-Boom, The Boisterous",
-                        "chest_opened_img": "images/locations/Ba-Boom.png",
-                        "access_rules": [
-                            "3-boss"
-                        ],
-                        "visibility_rules": []
+                        "chest_opened_img": "images/locations/Ba-Boom.png"
                     }
                 ],
                 "map_locations": [
