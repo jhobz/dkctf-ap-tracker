@@ -1,6 +1,7 @@
 [
     {
         "name": "Lost Mangroves",
+        "chest_opened_img": "images/locations/puzzlepiece.png",
         "chest_unopened_img": "images/locations/puzzlepiece_desat.png",
         "children": [
             {
@@ -29,42 +30,15 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" },
+                    { "name": "Puzzle Piece #6" },
+                    { "name": "Puzzle Piece #7" },
+                    { "name": "Puzzle Piece #8" },
+                    { "name": "Puzzle Piece #9" }
                 ],
                 "map_locations": [
                     {
@@ -100,42 +74,15 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" },
+                    { "name": "Puzzle Piece #6" },
+                    { "name": "Puzzle Piece #7" },
+                    { "name": "Puzzle Piece #8" },
+                    { "name": "Puzzle Piece #9" }
                 ],
                 "map_locations": [
                     {
@@ -171,26 +118,11 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" }
                 ],
                 "map_locations": [
                     {
@@ -226,34 +158,13 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" },
+                    { "name": "Puzzle Piece #6" },
+                    { "name": "Puzzle Piece #7" }
                 ],
                 "map_locations": [
                     {
@@ -289,42 +200,15 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #6",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #7",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #8",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #9",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" },
+                    { "name": "Puzzle Piece #6" },
+                    { "name": "Puzzle Piece #7" },
+                    { "name": "Puzzle Piece #8" },
+                    { "name": "Puzzle Piece #9" }
                 ],
                 "map_locations": [
                     {
@@ -360,26 +244,11 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" }
                 ],
                 "map_locations": [
                     {
@@ -395,26 +264,11 @@
                     "1-k"
                 ],
                 "sections": [
-                    {
-                        "name": "Puzzle Piece #1",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #2",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #3",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #4",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    },
-                    {
-                        "name": "Puzzle Piece #5",
-                        "chest_opened_img": "images/locations/puzzlepiece.png"
-                    }
+                    { "name": "Puzzle Piece #1" },
+                    { "name": "Puzzle Piece #2" },
+                    { "name": "Puzzle Piece #3" },
+                    { "name": "Puzzle Piece #4" },
+                    { "name": "Puzzle Piece #5" }
                 ],
                 "map_locations": [
                     {
