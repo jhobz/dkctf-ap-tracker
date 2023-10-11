@@ -31,7 +31,7 @@
         "codes": "diddybarrel,diddykongbarrel",
         "min_quantity": 0,
         "max_quantity": 10,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Dixie Kong Barrel",
@@ -40,7 +40,7 @@
         "codes": "dixiebarrel,dixiekongbarrel",
         "min_quantity": 0,
         "max_quantity": 10,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Cranky Kong Barrel",
@@ -49,7 +49,7 @@
         "codes": "crankybarrel,crankykongbarrel",
         "min_quantity": 0,
         "max_quantity": 10,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Red Balloon",
@@ -58,7 +58,7 @@
         "codes": "redballoon",
         "min_quantity": 0,
         "max_quantity": 15,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Blue Balloon",
@@ -67,7 +67,7 @@
         "codes": "blueballoon",
         "min_quantity": 0,
         "max_quantity": 15,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Green Balloon",
@@ -76,7 +76,7 @@
         "codes": "greenballoon",
         "min_quantity": 0,
         "max_quantity": 15,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Squawks",
@@ -85,7 +85,7 @@
         "codes": "squawks",
         "min_quantity": 0,
         "max_quantity": 20,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Crash Guard",
@@ -94,7 +94,7 @@
         "codes": "crashguard",
         "min_quantity": 0,
         "max_quantity": 20,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Banana Juice",
@@ -103,7 +103,7 @@
         "codes": "bananajuice",
         "min_quantity": 0,
         "max_quantity": 10,
-        "count": 0
+        "initial_quantity": 0
     },
     {
         "name": "Heart Boost",
@@ -112,7 +112,7 @@
         "codes": "heartboost",
         "min_quantity": 0,
         "max_quantity": 10,
-        "count": 0
+        "initial_quantity": 0
     },
 
     {
