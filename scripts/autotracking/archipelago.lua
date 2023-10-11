@@ -1,12 +1,12 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
 ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
-function OnClear(slot_data)
+local function onClear(slot_data)
     print('clear')
-    print(dump_table(slot_data))
+    print(DumpTable(slot_data))
 end
 
-function OnItem(index, item_id, item_name, player_number)
+local function onItem(index, item_id, item_name, player_number)
     print('item received')
     print(index,item_id,item_name,player_number)
 
@@ -37,7 +37,7 @@ function OnItem(index, item_id, item_name, player_number)
     end
 end
 
-function OnLocation(location_id, location_name)
+local function onLocation(location_id, location_name)
     print("onLocation: fired")
     local locationPath = LOCATION_MAPPING[location_id]
     if not locationPath or not locationPath[1] then
@@ -53,6 +53,6 @@ function OnLocation(location_id, location_name)
     end
 end
 
-Archipelago:AddClearHandler("clear handler", OnClear)
-Archipelago:AddItemHandler("item handler", OnItem)
-Archipelago:AddLocationHandler("location handler", OnLocation)
+Archipelago:AddClearHandler("clear handler", onClear)
+Archipelago:AddItemHandler("item handler", onItem)
+Archipelago:AddLocationHandler("location handler", onLocation)

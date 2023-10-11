@@ -6,9 +6,7 @@
         "children": [
             {
                 "name": "[5-1] Harvest Hazards",
-                "access_rules": [
-                    "5-1"
-                ],
+                "access_rules": ["5-1"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -48,9 +46,7 @@
             },
             {
                 "name": "[5-2] Reckless Ride",
-                "access_rules": [
-                    "5-2"
-                ],
+                "access_rules": ["5-2"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -88,9 +84,7 @@
             },
             {
                 "name": "[5-3] Fruity Factory",
-                "access_rules": [
-                    "5-3"
-                ],
+                "access_rules": ["5-3"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -128,9 +122,7 @@
             },
             {
                 "name": "[5-A] Beehive Brawl",
-                "access_rules": [
-                    "5-a"
-                ],
+                "access_rules": ["5-a"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -170,9 +162,7 @@
             },
             {
                 "name": "[5-4] Panicky Paddles",
-                "access_rules": [
-                    "5-4"
-                ],
+                "access_rules": ["5-4"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -214,9 +204,7 @@
             },
             {
                 "name": "[5-5] Jelly Jamboree",
-                "access_rules": [
-                    "5-5"
-                ],
+                "access_rules": ["5-5"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -256,9 +244,7 @@
             },
             {
                 "name": "[5-B] Jammin' Jam",
-                "access_rules": [
-                    "5-b"
-                ],
+                "access_rules": ["5-b"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -296,9 +282,7 @@
             },
             {
                 "name": "[5-6] Frosty Fruits",
-                "access_rules": [
-                    "5-6"
-                ],
+                "access_rules": ["5-6"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -336,9 +320,7 @@
             },
             {
                 "name": "[5-K] Platform Problems",
-                "access_rules": [
-                    "5-k"
-                ],
+                "access_rules": ["5-k"],
                 "sections": [
                     { "name": "Puzzle Piece #1" },
                     { "name": "Puzzle Piece #2" },
@@ -356,9 +338,7 @@
             },
             {
                 "name": "[5-Boss] Punch Bowl",
-                "access_rules": [
-                    "5-boss"
-                ],
+                "access_rules": ["$CanReachBoss|5"],
                 "sections": [
                     {
                         "name": "Defeat Bashmaster, the Unbreakable",

@@ -6,9 +6,7 @@
         "children": [
             {
                 "name": "[1-1] Mangrove Cove",
-                "access_rules": [
-                    "1-1"
-                ],
+                "access_rules": ["1-1"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -50,9 +48,7 @@
             },
             {
                 "name": "[1-2] Shipwreck Shore",
-                "access_rules": [
-                    "1-2"
-                ],
+                "access_rules": ["1-2"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -94,9 +90,7 @@
             },
             {
                 "name": "[1-A] Zip-Line Shrine",
-                "access_rules": [
-                    "1-a"
-                ],
+                "access_rules": ["1-a"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -134,9 +128,7 @@
             },
             {
                 "name": "[1-3] Canopy Chaos",
-                "access_rules": [
-                    "1-3"
-                ],
+                "access_rules": ["1-3"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -176,9 +168,7 @@
             },
             {
                 "name": "[1-B] Busted Bayou",
-                "access_rules": [
-                    "1-b"
-                ],
+                "access_rules": ["1-b"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -220,9 +210,7 @@
             },
             {
                 "name": "[1-4] Trunk Twister",
-                "access_rules": [
-                    "1-4"
-                ],
+                "access_rules": ["1-4"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -260,9 +248,7 @@
             },
             {
                 "name": "[1-K] Swinger Flinger",
-                "access_rules": [
-                    "1-k"
-                ],
+                "access_rules": ["1-k"],
                 "sections": [
                     { "name": "Puzzle Piece #1" },
                     { "name": "Puzzle Piece #2" },
@@ -280,9 +266,7 @@
             },
             {
                 "name": "[1-Boss] Big Top Bop",
-                "access_rules": [
-                    "1-boss"
-                ],
+                "access_rules": ["$CanReachBoss|1"],
                 "sections": [
                     {
                         "name": "Defeat Pompy, the Presumptuous",

@@ -6,9 +6,7 @@
         "children": [
             {
                 "name": "[6-1] Homecoming Hijinks",
-                "access_rules": [
-                    "6-1"
-                ],
+                "access_rules": ["6-1"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -46,9 +44,7 @@
             },
             {
                 "name": "[6-2] Seashore War",
-                "access_rules": [
-                    "6-2"
-                ],
+                "access_rules": ["6-2"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -86,9 +82,7 @@
             },
             {
                 "name": "[6-3] Aqueduct Assault",
-                "access_rules": [
-                    "6-3"
-                ],
+                "access_rules": ["6-3"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -126,9 +120,7 @@
             },
             {
                 "name": "[6-4] Blurry Flurry",
-                "access_rules": [
-                    "6-4"
-                ],
+                "access_rules": ["6-4"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -168,9 +160,7 @@
             },
             {
                 "name": "[6-5] Forest Folly",
-                "access_rules": [
-                    "6-5"
-                ],
+                "access_rules": ["6-5"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -208,9 +198,7 @@
             },
             {
                 "name": "[6-6] Cliffside Slide",
-                "access_rules": [
-                    "6-6"
-                ],
+                "access_rules": ["6-6"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -248,9 +236,7 @@
             },
             {
                 "name": "[6-7] Frozen Frenzy",
-                "access_rules": [
-                    "6-7"
-                ],
+                "access_rules": ["6-7"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -288,9 +274,7 @@
             },
             {
                 "name": "[6-A] Dynamite Dash",
-                "access_rules": [
-                    "6-a"
-                ],
+                "access_rules": ["6-a"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -328,9 +312,7 @@
             },
             {
                 "name": "[6-B] Icicle Arsenal",
-                "access_rules": [
-                    "6-b"
-                ],
+                "access_rules": ["6-b"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -370,9 +352,7 @@
             },
             {
                 "name": "[6-8] Meltdown Mayhem",
-                "access_rules": [
-                    "6-8"
-                ],
+                "access_rules": ["6-8"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -410,9 +390,7 @@
             },
             {
                 "name": "[6-K] Slippery Spikes",
-                "access_rules": [
-                    "6-k"
-                ],
+                "access_rules": ["6-k"],
                 "sections": [
                     { "name": "Puzzle Piece #1" },
                     { "name": "Puzzle Piece #2" },
@@ -430,9 +408,7 @@
             },
             {
                 "name": "[6-Boss] Volcano Dome",
-                "access_rules": [
-                    "6-boss"
-                ],
+                "access_rules": ["$CanReachBoss|6"],
                 "sections": [
                     {
                         "name": "Defeat Lord Fredrik, the Snowmad King",

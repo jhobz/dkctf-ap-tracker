@@ -6,9 +6,7 @@
         "children": [
             {
                 "name": "[2-1] Windmill Hills",
-                "access_rules": [
-                    "2-1"
-                ],
+                "access_rules": ["2-1"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -50,9 +48,7 @@
             },
             {
                 "name": "[2-2] Mountain Mania",
-                "access_rules": [
-                    "2-2"
-                ],
+                "access_rules": ["2-2"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -92,9 +88,7 @@
             },
             {
                 "name": "[2-3] Horn Top Hop",
-                "access_rules": [
-                    "2-3"
-                ],
+                "access_rules": ["2-3"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -132,9 +126,7 @@
             },
             {
                 "name": "[2-4] Sawmill Thrill",
-                "access_rules": [
-                    "2-4"
-                ],
+                "access_rules": ["2-4"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -172,9 +164,7 @@
             },
             {
                 "name": "[2-A] Crumble Cavern",
-                "access_rules": [
-                    "2-A"
-                ],
+                "access_rules": ["2-A"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -214,9 +204,7 @@
             },
             {
                 "name": "[2-B] Rodent Ruckus",
-                "access_rules": [
-                    "2-B"
-                ],
+                "access_rules": ["2-B"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -254,9 +242,7 @@
             },
             {
                 "name": "[2-5] Alpine Incline",
-                "access_rules": [
-                    "2-5"
-                ],
+                "access_rules": ["2-5"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -294,9 +280,7 @@
             },
             {
                 "name": "[2-6] Wing Ding",
-                "access_rules": [
-                    "2-6"
-                ],
+                "access_rules": ["2-6"],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -334,9 +318,7 @@
             },
             {
                 "name": "[2-K] Bopopolis",
-                "access_rules": [
-                    "2-k"
-                ],
+                "access_rules": ["2-k"],
                 "sections": [
                     { "name": "Puzzle Piece #1" },
                     { "name": "Puzzle Piece #2" },
@@ -354,9 +336,7 @@
             },
             {
                 "name": "[2-Boss] Mountaintop Tussle",
-                "access_rules": [
-                    "2-boss"
-                ],
+                "access_rules": ["$CanReachBoss|2"],
                 "sections": [
                     {
                         "name": "Defeat Skowl, The Startling",
