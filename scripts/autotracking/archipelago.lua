@@ -1,11 +1,12 @@
 ScriptHost:LoadScript("scripts/autotracking/item_mapping.lua")
+ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 
-function onClear(slot_data)
+function OnClear(slot_data)
     print('clear')
     print(dump_table(slot_data))
 end
 
-function onItem(index, item_id, item_name, player_number)
+function OnItem(index, item_id, item_name, player_number)
     print('item received')
     print(index,item_id,item_name,player_number)
 
@@ -36,5 +37,22 @@ function onItem(index, item_id, item_name, player_number)
     end
 end
 
-Archipelago:AddClearHandler("clear handler", onClear)
-Archipelago:AddItemHandler("item handler", onItem)
+function OnLocation(location_id, location_name)
+    print("onLocation: fired")
+    local locationPath = LOCATION_MAPPING[location_id]
+    if not locationPath or not locationPath[1] then
+        print(string.format("onLocation: could not find location mapping for id %s", location_id))
+        return
+    end
+
+    local location = Tracker:FindObjectForCode(locationPath[1])
+    if location then
+        location.AvailableChestCount = 0
+    else
+        print(string.format("onLocation: could not find object for code %s", locationPath[1]))
+    end
+end
+
+Archipelago:AddClearHandler("clear handler", OnClear)
+Archipelago:AddItemHandler("item handler", OnItem)
+Archipelago:AddLocationHandler("location handler", OnLocation)

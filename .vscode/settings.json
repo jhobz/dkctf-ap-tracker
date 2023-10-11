@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "Tracker",
+        "ScriptHost",
+        "PopVersion",
+        "ENABLE_DEBUG_LOG",
+        "Archipelago"
+    ]
+}
