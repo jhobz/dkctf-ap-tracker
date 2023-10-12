@@ -30,15 +30,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -74,15 +69,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -118,11 +108,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -158,13 +147,14 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "Puzzle Pieces - Dixie or Cranky",
+                        "item_count": 3
+                    }
                 ],
                 "map_locations": [
                     {
@@ -200,15 +190,13 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Puzzle Piece - Dixie or Cranky"
+                    }
                 ],
                 "map_locations": [
                     {
@@ -244,11 +232,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -264,11 +251,10 @@
                     "1-k"
                 ],
                 "sections": [
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -281,7 +267,7 @@
             {
                 "name": "[1-Boss] Big Top Bop",
                 "access_rules": [
-                    "1-boss"
+                    "$CanReachBoss|1"
                 ],
                 "sections": [
                     {

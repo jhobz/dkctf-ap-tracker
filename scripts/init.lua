@@ -3,6 +3,7 @@ Tracker:AddItems("items/items.json")
 
 -- Logic
 ScriptHost:LoadScript("scripts/utils.lua")
+ScriptHost:LoadScript("scripts/logic/logic.lua")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")

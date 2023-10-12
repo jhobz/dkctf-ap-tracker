@@ -1,4 +1,4 @@
-function dump_table(o, depth)
+function DumpTable(o, depth)
 	if depth == nil then
 		depth = 0
 	end
@@ -10,10 +10,26 @@ function dump_table(o, depth)
 			if type(k) ~= 'number' then
 				k = '"' .. k .. '"'
 			end
-			s = s .. tabs2 .. '[' .. k .. '] = ' .. dump_table(v, depth + 1) .. ',\n'
+			s = s .. tabs2 .. '[' .. k .. '] = ' .. DumpTable(v, depth + 1) .. ',\n'
 		end
 		return s .. tabs .. '}'
 	else
 		return tostring(o)
 	end
+end
+
+function Has(item, amount)
+	local count = Tracker:ProviderCountForCode(item)
+	amount = tonumber(amount)
+
+	if not amount then
+		return count > 0
+	end
+
+	return count >= amount
+end
+
+-- Alias for `Tracker:ProviderCountForCode()`.
+function Count(item)
+	return Tracker:ProviderCountForCode(item)
 end
