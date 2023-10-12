@@ -6,7 +6,9 @@
         "children": [
             {
                 "name": "[4-1] Deep Keep",
-                "access_rules": ["4-1"],
+                "access_rules": [
+                    "4-1"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -28,13 +30,13 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 6
+                    },
+                    {
+                        "name": "Puzzle Piece - Any Partner"
+                    }
                 ],
                 "map_locations": [
                     {
@@ -46,7 +48,9 @@
             },
             {
                 "name": "[4-A] Rockin' Relics",
-                "access_rules": ["4-a"],
+                "access_rules": [
+                    "4-a"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -68,15 +72,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -88,7 +87,9 @@
             },
             {
                 "name": "[4-B] Shoal Atoll",
-                "access_rules": ["4-b"],
+                "access_rules": [
+                    "4-b"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -110,11 +111,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -126,7 +126,9 @@
             },
             {
                 "name": "[4-2] High Tide Ride",
-                "access_rules": ["4-2"],
+                "access_rules": [
+                    "4-2"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -148,11 +150,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -164,7 +165,9 @@
             },
             {
                 "name": "[4-3] Amiss Abyss",
-                "access_rules": ["4-3"],
+                "access_rules": [
+                    "4-3"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -186,15 +189,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -206,7 +204,9 @@
             },
             {
                 "name": "[4-4] Irate Eight",
-                "access_rules": ["4-4"],
+                "access_rules": [
+                    "4-4"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -228,11 +228,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -244,7 +243,9 @@
             },
             {
                 "name": "[4-5] Sea Stack Attack",
-                "access_rules": ["4-5"],
+                "access_rules": [
+                    "4-5"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -266,13 +267,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 7
+                    }
                 ],
                 "map_locations": [
                     {
@@ -284,7 +282,9 @@
             },
             {
                 "name": "[4-6] Current Capes",
-                "access_rules": ["4-6"],
+                "access_rules": [
+                    "4-6"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -306,11 +306,13 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "Puzzle Piece - Dixie/Cranky"
+                    }
                 ],
                 "map_locations": [
                     {
@@ -322,13 +324,14 @@
             },
             {
                 "name": "[4-K] Spinning Spines",
-                "access_rules": ["4-k"],
+                "access_rules": [
+                    "4-k"
+                ],
                 "sections": [
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -340,7 +343,9 @@
             },
             {
                 "name": "[4-Boss] Fugu Face-Off",
-                "access_rules": ["$CanReachBoss|4"],
+                "access_rules": [
+                    "$CanReachBoss|4"
+                ],
                 "sections": [
                     {
                         "name": "Defeat Fugu, the Frightening",

@@ -6,7 +6,9 @@
         "children": [
             {
                 "name": "[1-1] Mangrove Cove",
-                "access_rules": ["1-1"],
+                "access_rules": [
+                    "1-1"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -28,15 +30,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -48,7 +45,9 @@
             },
             {
                 "name": "[1-2] Shipwreck Shore",
-                "access_rules": ["1-2"],
+                "access_rules": [
+                    "1-2"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -70,15 +69,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 9
+                    }
                 ],
                 "map_locations": [
                     {
@@ -90,7 +84,9 @@
             },
             {
                 "name": "[1-A] Zip-Line Shrine",
-                "access_rules": ["1-a"],
+                "access_rules": [
+                    "1-a"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -112,11 +108,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -128,7 +123,9 @@
             },
             {
                 "name": "[1-3] Canopy Chaos",
-                "access_rules": ["1-3"],
+                "access_rules": [
+                    "1-3"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -150,13 +147,14 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 4
+                    },
+                    {
+                        "name": "Puzzle Pieces - Dixie/Cranky",
+                        "item_count": 3
+                    }
                 ],
                 "map_locations": [
                     {
@@ -168,7 +166,9 @@
             },
             {
                 "name": "[1-B] Busted Bayou",
-                "access_rules": ["1-b"],
+                "access_rules": [
+                    "1-b"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -190,15 +190,13 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" },
-                    { "name": "Puzzle Piece #6" },
-                    { "name": "Puzzle Piece #7" },
-                    { "name": "Puzzle Piece #8" },
-                    { "name": "Puzzle Piece #9" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 8
+                    },
+                    {
+                        "name": "Puzzle Piece - Dixie/Cranky"
+                    }
                 ],
                 "map_locations": [
                     {
@@ -210,7 +208,9 @@
             },
             {
                 "name": "[1-4] Trunk Twister",
-                "access_rules": ["1-4"],
+                "access_rules": [
+                    "1-4"
+                ],
                 "sections": [
                     {
                         "name": "Letter K",
@@ -232,11 +232,10 @@
                         "chest_opened_img": "images/locations/G.png",
                         "chest_unopened_img": "images/locations/G_desat.png"
                     },
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -248,13 +247,14 @@
             },
             {
                 "name": "[1-K] Swinger Flinger",
-                "access_rules": ["1-k"],
+                "access_rules": [
+                    "1-k"
+                ],
                 "sections": [
-                    { "name": "Puzzle Piece #1" },
-                    { "name": "Puzzle Piece #2" },
-                    { "name": "Puzzle Piece #3" },
-                    { "name": "Puzzle Piece #4" },
-                    { "name": "Puzzle Piece #5" }
+                    {
+                        "name": "Puzzle Pieces",
+                        "item_count": 5
+                    }
                 ],
                 "map_locations": [
                     {
@@ -266,7 +266,9 @@
             },
             {
                 "name": "[1-Boss] Big Top Bop",
-                "access_rules": ["$CanReachBoss|1"],
+                "access_rules": [
+                    "$CanReachBoss|1"
+                ],
                 "sections": [
                     {
                         "name": "Defeat Pompy, the Presumptuous",
